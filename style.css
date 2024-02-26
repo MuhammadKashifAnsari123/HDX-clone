@@ -1,0 +1,20 @@
+
+
+
+
+ h1{
+    font-weight: bold;
+    font-family: "Teko , sans-serif";
+    text-transform: uppercase;
+    line-height: 1em;
+}
+
+
+.nav-item  a:hover{
+    border-bottom: 3px solid red;
+
+}
+.lefts1{
+
+}
+
